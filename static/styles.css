@@ -103,7 +103,7 @@ input[type="submit"]:hover {
 
 .skills {
     display: block;
-    float: right;
+    float: left;
     align-items: right;
     justify-content: right;
     text-align: left;

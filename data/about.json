@@ -1,6 +1,6 @@
 {
     "Name": "Mudit M",
-    "Bio": "22-year-old, Pre-final year Computer Science Engineering Student from Delhi NCR.",
+    "Bio": "I'm a 22-year-old, final year Computer Science Engineering Student from Gurgaon.",
     "Links": {
         "Resume": "https://mudits-portfolio.onrender.com/resume.pdf",
         "Linkedin": "https://www.linkedin.com/in/muditmehta07/",
@@ -8,5 +8,5 @@
         "Mail": "mailto:muditmehta@icloud.com"
     },
 
-    "Skills": ["Python", "LangChain", "TensorFlow", "Flask", "Golang", "Gin", "Azure Cognitive Services"]
+    "Skills": ["Python", "LangChain", "TensorFlow", "Flask", "ROS2", "Golang", "MongoDB"]
 }

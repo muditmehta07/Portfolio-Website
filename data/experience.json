@@ -30,5 +30,16 @@
         "Mode": "On-Site",
         "Line 1": "Collaborated with the marketing team, identified need for AI-based retail tracking system.",
         "Line 2": "Partnered with AI companies to deploy AI-powered retail analytics tools."
+    },
+
+    "4": {
+        "Company": "Freelance",
+        "Title": "Discord Bot Developer",
+        "From Date": "Jun 2020",
+        "To Date": "May 2021",
+        "Location": "Gurugram, Haryana",
+        "Mode": "Remote",
+        "Line 1": "Developed custom Discord bots tailored to client needs using Python and the Discord.py framework.",
+        "Line 2": "Built ML-powered bots using TensorFlow, Keras and NLTK, while Pillow was used for dynamic visual content."
     }
 }

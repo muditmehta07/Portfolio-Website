@@ -8,5 +8,5 @@
         "Mail": "mailto:muditmehta@icloud.com"
     },
 
-    "Skills": ["Python", "LangChain", "TensorFlow", "Flask", "ROS2", "Golang", "MongoDB"]
+    "Skills": ["Python", "LangChain", "TensorFlow", "ROS2", "Flask", "MongoDB"]
 }

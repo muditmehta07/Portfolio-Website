@@ -1,5 +1,4 @@
 Flask
 gunicorn
 flask==3.0.2
-smtplib
 email
